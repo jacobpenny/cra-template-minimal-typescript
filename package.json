@@ -1,0 +1,25 @@
+{
+  "name": "cra-template-minimal-ts",
+  "version": "1.0.2",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "prettier",
+    "sass"
+  ],
+  "description": "A minimal TypeScript template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacobpenny/cra-template-minimal-typescript"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
